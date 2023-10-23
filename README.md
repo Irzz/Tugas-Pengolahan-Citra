@@ -1,2 +1,3 @@
 # Tugas-Pengolahan-Citra
-Repo ini digunakan sebagai direktori untuk tugas pengolahan citra
+
+### Repository ini berisi koleksi program untuk pengolahan citra
